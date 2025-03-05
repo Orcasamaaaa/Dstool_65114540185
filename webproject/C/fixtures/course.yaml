@@ -1,0 +1,17 @@
+- model: C.course
+  pk: "C101"
+  fields:
+    Course_name: "Introduction to Data Science"
+    Teacher_name: "Dr. Smith"
+
+- model: C.course
+  pk: "C102"
+  fields:
+    Course_name: "Machine Learning Basics"
+    Teacher_name: "Prof. Johnson"
+
+- model: C.course
+  pk: "C103"
+  fields:
+    Course_name: "Deep Learning Fundamentals"
+    Teacher_name: "Dr. Lee"
